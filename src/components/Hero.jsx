@@ -8,7 +8,7 @@ export default function Hero() {
             Content Creator & Planner
           </span>
           <h1 className="text-4xl md:text-5xl font-bold leading-tight text-white">
-            Halo, Saya <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#00d2ff] to-[#0066ff]">Nurshafa Michella</span>
+            Halo, Saya <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#00d2ff] to-[#0066ff]">Nurshafa Michella Fadlyn</span>
           </h1>
           <p className="text-slate-200 text-lg leading-relaxed">
             Kreator konten visual, pengarah video, dan perancang strategi media sosial yang berfokus pada konten kreatif dan estetis.

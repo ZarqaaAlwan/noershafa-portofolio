@@ -13,7 +13,7 @@ export default function Navbar() {
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-[#0a1128]/80 backdrop-blur-md border-b border-slate-800/80 py-4 px-8 md:px-20 flex justify-between items-center">
       <a href="#hero" className="text-xl font-bold text-white tracking-wider">
-        Nurshafa<span className="text-[#00d2ff]">.</span>
+        Shafa<span className="text-[#00d2ff]">.</span>
       </a>
 
       <div className="hidden md:flex items-center space-x-8 text-sm font-medium">
