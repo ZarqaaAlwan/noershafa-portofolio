@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  
+  /* Tambahan Warna Biru Sonic */
+  --color-sonic-dark: #0a1128;
+  --color-sonic-blue: #0056b3;
+  --color-sonic-bright: #0066ff;
+  --color-sonic-cyan: #00d2ff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a1128;
+    --foreground: #ededed;
+  }
+}
